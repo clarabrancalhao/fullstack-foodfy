@@ -2,20 +2,20 @@
   "name": "foodfy-refatored",
   "version": "1.0.0",
   "description": "",
-  "main": "data.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clarabrancalhao/Foodfy.git"
+    "url": "git+https://github.com/clarabrancalhao/fullstack-foodfy.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clarabrancalhao/Foodfy/issues"
+    "url": "https://github.com/clarabrancalhao/fullstack-foodfy/issues"
   },
-  "homepage": "https://github.com/clarabrancalhao/Foodfy#readme"
+  "homepage": "https://github.com/clarabrancalhao/fullstack-foodfy#readme"
 }
