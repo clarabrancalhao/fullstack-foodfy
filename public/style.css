@@ -125,11 +125,6 @@ footer {
 }
 
 
-
-.sobre a:first-child { 
-  font-weight: 700;
-}
-
 .textoSobre  {
 margin-left: 230px;
 max-width: 940px;
@@ -159,10 +154,6 @@ max-width: 940px;
   margin-bottom: 20px;
 }
 
-.hdReceitas  a:last-child{
-  font-weight: 700;
-
-}
 
 .modalOverlay {
   width: 100%;
